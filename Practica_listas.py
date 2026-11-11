@@ -61,3 +61,23 @@ print(f"Activo: {socio['activo']}")
 listas_cuentas = socio["cuentas"][2]["saldo"]
 print(listas_cuentas)
 
+#Actiivdad en clase
+lista = [1,2,3,4,5,6,7,8]
+print(lista[-1])
+for i in lista:
+    if i%2==0:
+        print(f"Es par {i}")
+    else:
+        print(f"Es impar: {i}")
+for i in lista:
+    print(i ,end=" ")
+
+saldo = float(input("Ingrese un saldo"))
+if saldo>=1000:
+    print(f"Categoria Oro")
+elif saldo<=1000:
+    print(f"Categoria bronce")
+else:
+    print(f"Categoria Bronce")
+
+
