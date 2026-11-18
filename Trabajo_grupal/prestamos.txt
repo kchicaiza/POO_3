@@ -1,0 +1,5 @@
+1,1,Pedro,2026-11-17,Devuelto
+2,1,Pedro,2026-11-18,Activo
+3,4,Kevin,2026-11-18,Devuelto
+4,2,3,2026-11-18,Devuelto
+5,5,Karen,2026-11-18,Activo

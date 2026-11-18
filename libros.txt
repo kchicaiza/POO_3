@@ -1,0 +1,3 @@
+1,Python para todos,Charles Severance,Prestado
+2,Aprende Java,Ana Torres,Prestado
+3,Bases de datos,Carlos Mora,Disponible

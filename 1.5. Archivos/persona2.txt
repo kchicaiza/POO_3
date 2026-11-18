@@ -1,0 +1,41 @@
+Persona 1 
+nombre: Kevin Chicaiza 
+edad: 22 
+cedula: 0106907009 
+direccion: Cuenca 
+Correo: kchicaizabravo@gmail.com 
+
+Persona 2 
+nombre: Pedro Buñay 
+edad: 22 
+cedula: 0151195419 
+direccion: Cuenca 
+Correo: pedro26@gmail.com 
+
+Persona 3 
+nombre: Pablo Alvarado 
+edad: 21 
+cedula: 0156473456 
+direccion: Cuenca 
+Correo: pabloalvarado@gmail.com 
+
+Persona 4 
+nombre: Steven Ortiz 
+edad: 24 
+cedula: 0106907009 
+direccion: Cuenca 
+Correo: stevenortiz@gmail.com 
+
+Persona 5 
+nombre: Mario Valdiviezo 
+edad: 19 
+cedula: 0106907009 
+direccion: Cuenca 
+Correo: mario23@gmail.com 
+
+Nueva Persona: 
+nombre Mario Valdiviezo 
+edad 19 
+cedula 0106907009 
+direccion Cuenca 
+Correo mario23@gmail.com 
