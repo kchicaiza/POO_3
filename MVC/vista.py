@@ -27,6 +27,9 @@ class VistaTanques:
     def mensaje(self, mensaje):
         print(mensaje)
 
+    def error(self, mensaje):
+        print(mensaje)
+
     def mostrar_tanques(self, tanques):
         for i in tanques:
             print(i)
